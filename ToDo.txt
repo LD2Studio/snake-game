@@ -1,2 +1,2 @@
-Create initial project with Godot 3
+Create initial project with Godot 4
 Configuration of the size of the game window
