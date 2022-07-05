@@ -1,2 +1,3 @@
 Create initial project with Godot 4
 Configuration of the size of the game window
+Create a background texture only with Godot
